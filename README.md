@@ -3,3 +3,9 @@ Synthesizing texture by selecting best patches based on overlapping regions with
 
 
 <img src="linc2.png">
+
+
+
+## Details
+
+Will be updated soon.
